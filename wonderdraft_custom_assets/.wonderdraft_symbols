@@ -1,0 +1,121 @@
+{
+    "sigilsect icon": {
+        "name": "Sigilsect Icon",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": -45,
+        "draw_mode": "normal"
+    },
+    "delkethroundtoken": {
+        "name": "Delkethroundtoken",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "DIAMOND THICKDOUBLEDOUBLE": {
+        "name": "Diamond Thickdoubledouble",
+        "radius": 91,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "DIAMOND THICKDOUBLEDOUBLERED": {
+        "name": "Diamond Thickdoubledoublered",
+        "radius": 85,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "delkethtoken_1": {
+        "name": "Delkethtoken 1",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "test_kethoth_raw": {
+        "name": "Test Kethoth Raw",
+        "radius": 1134,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "longhouse2": {
+        "name": "Longhouse 2",
+        "radius": 326,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "longhouse3": {
+        "name": "Longhouse 3",
+        "radius": 171,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "longhouse4": {
+        "name": "Longhouse 4",
+        "radius": 219,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "cairnskyline": {
+        "name": "Cairnskyline",
+        "radius": 153,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "longhouse1": {
+        "name": "Longhouse 1",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "longhouse6": {
+        "name": "Longhouse 6",
+        "radius": 55,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "hearthforest": {
+        "name": "Hearthforest",
+        "radius": 179,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "beautifulcity": {
+        "name": "Beautifulcity",
+        "radius": 188,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "blackcastle": {
+        "name": "Blackcastle",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "stmichel": {
+        "name": "Stmichel",
+        "radius": 180,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "sectumwassercastle": {
+        "name": "Sectumwassercastle",
+        "radius": 80,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}
